@@ -1,0 +1,85 @@
+Y:\businessOne\gdf\trunk\SyspedGDF\B1WizardBase\bin\Release\B1WizardBase.dll
+Y:\businessOne\gdf\trunk\SyspedGDF\B1WizardBase\bin\Release\B1WizardBase.pdb
+Y:\businessOne\gdf\trunk\SyspedGDF\B1WizardBase\bin\Release\Interop.SAPbobsCOM.dll
+Y:\businessOne\gdf\trunk\SyspedGDF\B1WizardBase\bin\Release\Interop.SAPbouiCOM.dll
+Y:\businessOne\gdf\trunk\SyspedGDF\B1WizardBase\obj\x86\Release\ResolveAssemblyReference.cache
+Y:\businessOne\gdf\trunk\SyspedGDF\B1WizardBase\obj\x86\Release\Interop.SAPbobsCOM.dll
+Y:\businessOne\gdf\trunk\SyspedGDF\B1WizardBase\obj\x86\Release\Interop.SAPbouiCOM.dll
+Y:\businessOne\gdf\trunk\SyspedGDF\B1WizardBase\obj\x86\Release\B1WizardBase.csproj.ResolveComReference.cache
+Y:\businessOne\gdf\trunk\SyspedGDF\B1WizardBase\obj\x86\Release\B1WizardBase.dll
+Y:\businessOne\gdf\trunk\SyspedGDF\B1WizardBase\obj\x86\Release\B1WizardBase.pdb
+Y:\businessOne\syspedOne\trunk\SyspedOne\B1WizardBase\bin\Release\B1WizardBase.dll
+Y:\businessOne\syspedOne\trunk\SyspedOne\B1WizardBase\bin\Release\B1WizardBase.pdb
+Y:\businessOne\syspedOne\trunk\SyspedOne\B1WizardBase\bin\Release\Interop.SAPbobsCOM.dll
+Y:\businessOne\syspedOne\trunk\SyspedOne\B1WizardBase\bin\Release\Interop.SAPbouiCOM.dll
+Y:\businessOne\syspedOne\trunk\SyspedOne\B1WizardBase\obj\x86\Release\ResolveAssemblyReference.cache
+Y:\businessOne\syspedOne\trunk\SyspedOne\B1WizardBase\obj\x86\Release\Interop.SAPbobsCOM.dll
+Y:\businessOne\syspedOne\trunk\SyspedOne\B1WizardBase\obj\x86\Release\Interop.SAPbouiCOM.dll
+Y:\businessOne\syspedOne\trunk\SyspedOne\B1WizardBase\obj\x86\Release\B1WizardBase.csproj.ResolveComReference.cache
+Y:\businessOne\syspedOne\trunk\SyspedOne\B1WizardBase\obj\x86\Release\B1WizardBase.dll
+Y:\businessOne\syspedOne\trunk\SyspedOne\B1WizardBase\obj\x86\Release\B1WizardBase.pdb
+C:\Projetos\Solution NPK\NPKInventario\B1WizardBase\bin\Release\B1WizardBase.dll
+C:\Projetos\Solution NPK\NPKInventario\B1WizardBase\bin\Release\B1WizardBase.pdb
+C:\Projetos\Solution NPK\NPKInventario\B1WizardBase\bin\Release\Interop.SAPbobsCOM.dll
+C:\Projetos\Solution NPK\NPKInventario\B1WizardBase\bin\Release\Interop.SAPbouiCOM.dll
+C:\Projetos\Solution NPK\NPKInventario\B1WizardBase\obj\x86\Release\Interop.SAPbobsCOM.dll
+C:\Projetos\Solution NPK\NPKInventario\B1WizardBase\obj\x86\Release\Interop.SAPbouiCOM.dll
+C:\Projetos\Solution NPK\NPKInventario\B1WizardBase\obj\x86\Release\B1WizardBase.csproj.ResolveComReference.cache
+C:\Projetos\Solution NPK\NPKInventario\B1WizardBase\obj\x86\Release\B1WizardBase.dll
+C:\Projetos\Solution NPK\NPKInventario\B1WizardBase\obj\x86\Release\B1WizardBase.pdb
+C:\Projetos\Solution SPS\B1WizardBase\bin\Release\B1WizardBase.dll
+C:\Projetos\Solution SPS\B1WizardBase\bin\Release\B1WizardBase.pdb
+C:\Projetos\Solution SPS\B1WizardBase\bin\Release\Interop.SAPbobsCOM.dll
+C:\Projetos\Solution SPS\B1WizardBase\bin\Release\Interop.SAPbouiCOM.dll
+C:\Projetos\Solution SPS\B1WizardBase\obj\x86\Release\Interop.SAPbobsCOM.dll
+C:\Projetos\Solution SPS\B1WizardBase\obj\x86\Release\Interop.SAPbouiCOM.dll
+C:\Projetos\Solution SPS\B1WizardBase\obj\x86\Release\B1WizardBase.csproj.ResolveComReference.cache
+C:\Projetos\Solution SPS\B1WizardBase\obj\x86\Release\B1WizardBase.dll
+C:\Projetos\Solution SPS\B1WizardBase\obj\x86\Release\B1WizardBase.pdb
+C:\Projetos\Solution SPS Gestao\B1WizardBase\bin\Release\B1WizardBase.dll
+C:\Projetos\Solution SPS Gestao\B1WizardBase\bin\Release\B1WizardBase.pdb
+C:\Projetos\Solution SPS Gestao\B1WizardBase\bin\Release\Interop.SAPbobsCOM.dll
+C:\Projetos\Solution SPS Gestao\B1WizardBase\bin\Release\Interop.SAPbouiCOM.dll
+C:\Projetos\Solution SPS Gestao\B1WizardBase\obj\x86\Release\Interop.SAPbobsCOM.dll
+C:\Projetos\Solution SPS Gestao\B1WizardBase\obj\x86\Release\Interop.SAPbouiCOM.dll
+C:\Projetos\Solution SPS Gestao\B1WizardBase\obj\x86\Release\B1WizardBase.csproj.ResolveComReference.cache
+C:\Projetos\Solution SPS Gestao\B1WizardBase\obj\x86\Release\B1WizardBase.dll
+C:\Projetos\Solution SPS Gestao\B1WizardBase\obj\x86\Release\B1WizardBase.pdb
+C:\Projetos\Solution SPS Gestão\B1WizardBase\bin\Release\B1WizardBase.dll
+C:\Projetos\Solution SPS Gestão\B1WizardBase\bin\Release\B1WizardBase.pdb
+C:\Projetos\Solution SPS Gestão\B1WizardBase\bin\Release\Interop.SAPbobsCOM.dll
+C:\Projetos\Solution SPS Gestão\B1WizardBase\bin\Release\Interop.SAPbouiCOM.dll
+C:\Projetos\Solution SPS Gestão\B1WizardBase\obj\x86\Release\Interop.SAPbobsCOM.dll
+C:\Projetos\Solution SPS Gestão\B1WizardBase\obj\x86\Release\Interop.SAPbouiCOM.dll
+C:\Projetos\Solution SPS Gestão\B1WizardBase\obj\x86\Release\B1WizardBase.csproj.ResolveComReference.cache
+C:\Projetos\Solution SPS Gestão\B1WizardBase\obj\x86\Release\B1WizardBase.dll
+C:\Projetos\Solution SPS Gestão\B1WizardBase\obj\x86\Release\B1WizardBase.pdb
+C:\Projetos\Solution Dimaro\Solution Dimaro\B1WizardBase\bin\Release\B1WizardBase.dll
+C:\Projetos\Solution Dimaro\Solution Dimaro\B1WizardBase\bin\Release\B1WizardBase.pdb
+C:\Projetos\Solution Dimaro\Solution Dimaro\B1WizardBase\bin\Release\Interop.SAPbobsCOM.dll
+C:\Projetos\Solution Dimaro\Solution Dimaro\B1WizardBase\bin\Release\Interop.SAPbouiCOM.dll
+C:\Projetos\Solution Dimaro\Solution Dimaro\B1WizardBase\obj\x86\Release\Interop.SAPbobsCOM.dll
+C:\Projetos\Solution Dimaro\Solution Dimaro\B1WizardBase\obj\x86\Release\Interop.SAPbouiCOM.dll
+C:\Projetos\Solution Dimaro\Solution Dimaro\B1WizardBase\obj\x86\Release\B1WizardBase.csproj.ResolveComReference.cache
+C:\Projetos\Solution Dimaro\Solution Dimaro\B1WizardBase\obj\x86\Release\B1WizardBase.dll
+C:\Projetos\Solution Dimaro\Solution Dimaro\B1WizardBase\obj\x86\Release\B1WizardBase.pdb
+C:\Projetos\Solution IGP\B1WizardBase\bin\Release\B1WizardBase.dll
+C:\Projetos\Solution IGP\B1WizardBase\bin\Release\B1WizardBase.pdb
+C:\Projetos\Solution IGP\B1WizardBase\bin\Release\Interop.SAPbobsCOM.dll
+C:\Projetos\Solution IGP\B1WizardBase\bin\Release\Interop.SAPbouiCOM.dll
+C:\Projetos\Solution IGP\B1WizardBase\obj\x86\Release\Interop.SAPbobsCOM.dll
+C:\Projetos\Solution IGP\B1WizardBase\obj\x86\Release\Interop.SAPbouiCOM.dll
+C:\Projetos\Solution IGP\B1WizardBase\obj\x86\Release\B1WizardBase.csproj.ResolveComReference.cache
+C:\Projetos\Solution IGP\B1WizardBase\obj\x86\Release\B1WizardBase.dll
+C:\Projetos\Solution IGP\B1WizardBase\obj\x86\Release\B1WizardBase.pdb
+C:\Projetos\Solution IGP\B1WizardBase\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Projetos\Solution DellMare\B1WizardBase\bin\Release\B1WizardBase.dll
+C:\Projetos\Solution DellMare\B1WizardBase\bin\Release\B1WizardBase.pdb
+C:\Projetos\Solution DellMare\B1WizardBase\bin\Release\Interop.SAPbobsCOM.dll
+C:\Projetos\Solution DellMare\B1WizardBase\bin\Release\Interop.SAPbouiCOM.dll
+C:\Projetos\Solution DellMare\B1WizardBase\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Projetos\Solution DellMare\B1WizardBase\obj\x86\Release\Interop.SAPbobsCOM.dll
+C:\Projetos\Solution DellMare\B1WizardBase\obj\x86\Release\Interop.SAPbouiCOM.dll
+C:\Projetos\Solution DellMare\B1WizardBase\obj\x86\Release\B1WizardBase.csproj.ResolveComReference.cache
+C:\Projetos\Solution DellMare\B1WizardBase\obj\x86\Release\B1WizardBase.dll
+C:\Projetos\Solution DellMare\B1WizardBase\obj\x86\Release\B1WizardBase.pdb

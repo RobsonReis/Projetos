@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B1WizardBase", "B1WizardBase\B1WizardBase.csproj", "{DFD83D62-76BA-4D13-82A4-02A47F9B67C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DellMare.Addon", "DellMare.Addon\DellMare.Addon.csproj", "{EC041BE3-31F9-4281-932B-6D30162337CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFD83D62-76BA-4D13-82A4-02A47F9B67C6}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{DFD83D62-76BA-4D13-82A4-02A47F9B67C6}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{DFD83D62-76BA-4D13-82A4-02A47F9B67C6}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{DFD83D62-76BA-4D13-82A4-02A47F9B67C6}.Debug|x86.ActiveCfg = Debug|x86
+		{DFD83D62-76BA-4D13-82A4-02A47F9B67C6}.Debug|x86.Build.0 = Debug|x86
+		{DFD83D62-76BA-4D13-82A4-02A47F9B67C6}.Release|Any CPU.ActiveCfg = Release|x86
+		{DFD83D62-76BA-4D13-82A4-02A47F9B67C6}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{DFD83D62-76BA-4D13-82A4-02A47F9B67C6}.Release|Mixed Platforms.Build.0 = Release|x86
+		{DFD83D62-76BA-4D13-82A4-02A47F9B67C6}.Release|x86.ActiveCfg = Release|x86
+		{DFD83D62-76BA-4D13-82A4-02A47F9B67C6}.Release|x86.Build.0 = Release|x86
+		{EC041BE3-31F9-4281-932B-6D30162337CE}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{EC041BE3-31F9-4281-932B-6D30162337CE}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{EC041BE3-31F9-4281-932B-6D30162337CE}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{EC041BE3-31F9-4281-932B-6D30162337CE}.Debug|x86.ActiveCfg = Debug|x86
+		{EC041BE3-31F9-4281-932B-6D30162337CE}.Debug|x86.Build.0 = Debug|x86
+		{EC041BE3-31F9-4281-932B-6D30162337CE}.Release|Any CPU.ActiveCfg = Release|x86
+		{EC041BE3-31F9-4281-932B-6D30162337CE}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{EC041BE3-31F9-4281-932B-6D30162337CE}.Release|Mixed Platforms.Build.0 = Release|x86
+		{EC041BE3-31F9-4281-932B-6D30162337CE}.Release|x86.ActiveCfg = Release|x86
+		{EC041BE3-31F9-4281-932B-6D30162337CE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

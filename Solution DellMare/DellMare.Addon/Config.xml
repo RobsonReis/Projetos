@@ -1,0 +1,11 @@
+<DellMare>
+<Target>
+<Server>SRVSAP06</Server>
+<User>sa</User>
+<PassWord>b1admin</PassWord>
+<DataBase>SBODemoBR_2</DataBase>
+<TypeSQL>2012</TypeSQL>
+<UserSap>manager</UserSap>
+<PassWordSap>b1admin</PassWordSap>
+</Target>
+</DellMare>
